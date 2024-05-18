@@ -1,0 +1,17 @@
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\bin\Debug\task4_paa.exe
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\bin\Debug\task4_paa.exe.config
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.csproj.AssemblyReference.cache
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Form1.resources
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Form2.resources
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Form3.resources
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Properties.Resources.resources
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.csproj.GenerateResource.cache
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.csproj.Up2Date
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.exe
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.pdb
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\bin\Debug\task4_paa.pdb
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Form4.resources
+D:\SEMESTER 4\Tugas\PR\PAA\task4_paa\obj\Debug\task4_paa.Form5.resources
